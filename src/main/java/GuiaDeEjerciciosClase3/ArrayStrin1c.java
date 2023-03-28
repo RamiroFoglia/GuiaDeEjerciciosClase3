@@ -1,4 +1,4 @@
-package GuiaDeEjerciciosClase3;
+    package GuiaDeEjerciciosClase3;
 
 import java.util.Random;
 import java.util.Scanner;
@@ -53,8 +53,8 @@ public class ArrayStrin1c {
         System.out.println("** Dado el numero ingresado, "+numeroX+", se calculara la suma  **");
         System.out.println("** de los numeros mayores a este, del siguiente vector **");
         System.out.println("*********************************************************");
-     
-        //MUESTO EL VECTOR 
+    
+        //MUESTRO EL VECTOR 
         for(int n : vecImprimir){
             System.out.print("["+ n +"] ");       
         }
